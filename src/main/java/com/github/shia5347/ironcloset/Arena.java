@@ -495,7 +495,7 @@ public class Arena {
 				blueshipsmallspawnMin --;
 			}
 			
-			if(blueshiptwirlyspawnFinishAt > 10) {
+			if(blueshiptwirlyspawnFinishAt > 20) {
 				blueshiptwirlyspawnMax --;
 				blueshiptwirlyspawnMin --;
 			}
